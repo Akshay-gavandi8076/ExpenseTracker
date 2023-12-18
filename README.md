@@ -1,1 +1,1 @@
-# [Expense Tract](https://github.com/facebook/create-react-app)
+# [Expense Tract](https://vercel.com/akshays-projects-96555b18/expense-tracker)
